@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoiceNote AI",
+  "description": "An intelligent voice note-taking application that transcribes audio using SiliconFlow and processes content using Gemini AI based on preset templates.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
